@@ -1,0 +1,86 @@
+
+.container{ 
+	width: 1255px ;
+	height: 1300px;
+	background-color: white;
+}
+
+#header {
+	width: 1255px:;
+	height: 50px;
+
+
+}
+
+#header1{
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18pt;
+	margin-left: 44px;
+	color: grey;
+	margin-top: 25px;
+
+}
+
+#header1:hover {	
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18pt;
+	margin-left: 44px;
+	color: #68CBDD;
+	margin-top: 25px;
+
+
+}
+
+#title {
+	width: 400px ;
+	height: 400px;
+	background-color: white;
+	margin-left: 37px;
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72pt;
+}
+
+#text {
+	width: 430px;
+font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 40;
+font-size: 12pt;
+margin-top: -140px;
+margin-left: 40px;
+
+}
+
+#picture {
+	margin-left: 600px;
+	width: 500px;
+	margin-top: -400px;
+
+}
+
+#sketch {
+	margin-left: 700px;
+	margin-top: 130px;
+}
+
+#sketch2 {
+	margin-left: 70px;
+	margin-top: -650px;
+}
+
+#sketch3 {
+	margin-left: 70px;
+
+}
+
+#animation {
+	margin-left: 170px;
+	margin-top: 60px;
+	margin-bottom: 50px;
+}

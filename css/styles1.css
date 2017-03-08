@@ -1,0 +1,95 @@
+
+.container{ 
+	width: 1255px ;
+	height: 1300px;
+	background-color: white;
+}
+
+
+#header {
+	width: 1255px:;
+	height: 50px;
+
+
+}
+#header1{
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18pt;
+	margin-left: 44px;
+	color: grey;
+	margin-top: 25px;
+
+}
+
+#header1:hover {	
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18pt;
+	margin-left: 44px;
+	color: #68CBDD;
+	margin-top: 25px;
+
+
+}
+
+#title {
+	width: 450px ;
+	height: 200px;
+	background-color: white;
+	margin-left: 40px;
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72pt;
+	color: black;
+}
+
+#text {
+	width: 400px;
+font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+margin-top: -200px;
+margin-left: 40px;
+color: #424242;
+
+}
+
+
+#picture {
+	margin-left: 560px;
+	width: 400px;
+	margin-top: -200px;
+	height: 560px;
+
+
+}
+
+#karen {
+	margin-left: 40px;
+	margin-top: -400px;
+	margin-bottom: 40px;
+
+}
+
+#lois {
+	margin-left: 775px;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+
+#jack {
+	margin-left: 150px;
+	margin-top: 100px;
+
+}
+
+
+#jack1 {
+	margin-left: 650px;
+	margin-top: -607px;
+}

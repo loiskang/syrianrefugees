@@ -1,0 +1,242 @@
+	@font-face {
+		font-family: "DIN Condensed Bold";
+		src:("../DIN_Condensed_Bold.ttf");
+	}
+
+
+
+.container{ 
+	width: 1255px ;
+	height: 1300px;
+	background-color: white;
+}
+
+
+#header {
+	width: 1255px:;
+	height: 50px;
+
+
+}
+
+#header1{
+		font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18pt;
+	margin-left: 70px;
+	color: #6B7B89;
+	margin-top: 15px;
+
+}
+
+/*#title {
+	width: 600px ;
+	height: 550px;
+	background-color: white;
+	margin-left: 40px;
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72pt;
+	color: dark grey;
+}
+*/
+#title2{
+
+}
+
+#picture {
+
+}
+
+.box {
+	width:350px;
+	margin-top: 50px;
+	margin-left: 80px;
+
+}
+
+#icon {
+	margin-left: 150px;
+
+
+}
+.button {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 140px;
+    width: 500px;
+
+
+}
+
+
+.button:hover {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: #68CBDD;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 140px;
+    width: 500px;
+
+
+  }
+
+
+  #aidsketch {
+  	width: 350px;
+  	margin-left: 25px;
+
+  }
+
+  .box1 {
+  	width: 450px;
+  	height: 400px;
+  	margin-left: 550px;
+  	margin-top: -315px;
+
+  }
+
+ #icon1 {
+ 	margin-left: 70px;
+ }
+
+.button1 {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    width: 500px;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 10px;
+
+
+
+}
+
+.button1:hover {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: #68CBDD;
+    text-decoration: none;
+    cursor: pointer;
+    width: 500px;
+    text-decoration: none;
+}
+
+  
+#gender {
+	width: 350px;
+	margin-left: -35px;
+	margin-top: 20px;
+
+}
+
+#icon2 {
+	margin-left: 45px;
+}
+.box2 {
+   width: 400px;
+   margin-left: 900px;
+   margin-top: -400px;
+
+
+}
+
+.button2 {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    width: 500px;
+
+
+}
+
+.button2:hover {
+   	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+    border: none;
+    color: #68CBDD;
+    text-decoration: none;
+    cursor: pointer;
+    width: 500px;
+
+
+  }
+
+
+#sea {
+	width: 350px;
+	margin-left: -90px;
+	margin-top: 25px;
+
+}
+
+#names {
+	font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 200;
+margin-top: 40px;
+margin-left: 40px;
+text-align: center;
+}
+
+#title2 {
+	margin-left: 600px;
+	margin-top: 100px;
+	
+}
+
+  /* 
+
+
+/*.aid { margin-left: 500px;
+	font-family: din-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	margin-top: -580px;
+	margin-left: 500px;
+
+
+}
+
+.aid:hover{
+   
+    border: none;
+	color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+	margin-top: -580px;
+    cursor: auto;
+}
+
+*/
