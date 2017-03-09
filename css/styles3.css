@@ -65,22 +65,23 @@ margin-left: 40px;
 }
 
 #sketch {
-	margin-left: 700px;
-	margin-top: 150px;
+	margin-left: 650px;
+	margin-top: 180px;
 }
 
 #sketch2 {
-	margin-left: 80px;
-	margin-top: -650px;
+	margin-left: 85px;
+	margin-top: -680px;
 }
 
 #sketch3 {
-	margin-left: 80px;
+	margin-left: 85px;
+	margin-top: -10px;
 
 }
 
 #animation {
 	margin-left: 170px;
-	margin-top: 60px;
+	margin-top: 80px;
 	margin-bottom: 50px;
 }
